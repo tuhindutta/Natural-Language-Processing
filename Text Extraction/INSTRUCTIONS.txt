@@ -1,0 +1,12 @@
+1. Run Tuhin_Kumar_Dutta_main.py and provide the PDF path.
+
+2. Modules used: EasyOCR, OpenCV, Matplotlib, NLTK, Pylab, Pandas, Pdf2image.
+
+3. The program processes and generates 3 files for every page of a PDF. They are :-
+	a) Image (.jpg) format of the PDF,
+	b) Image with bounding boxes around the texts,
+	c) A text file (extracted_texts.txt) with all the texts extracted from all the pdf pages.
+	
+4. A sample pdf and the processed files of the PDF are provided alongwith for reference.
+
+5. This program runs faster with a GPU than with CPU.
